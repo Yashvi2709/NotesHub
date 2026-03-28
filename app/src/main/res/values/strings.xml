@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StudyMaterialLocator</string>
+    <string name="download_material">Download material</string>
+    <string name="delete_material">Delete material</string>
+</resources>
